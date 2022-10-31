@@ -1,5 +1,7 @@
 # Diagrama ER Hospital
 
+Esse é meu primeiro projeto relacionado a banco de dados.
+
 ###### Objetivo
 
 Analise a seguinte descrição e extraia dela os requisitos para o banco de dados:
