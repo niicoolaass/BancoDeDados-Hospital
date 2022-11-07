@@ -13,5 +13,5 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 
 feito no:  Draw.io
 
-![diagrama hospital](https://user-images.githubusercontent.com/101203587/198923551-e0da5090-3a53-43e0-a94c-ee83fc651ef1.png)
 
+![diagrama hospital](https://user-images.githubusercontent.com/101203587/200227413-e6ead85c-f0b9-4fa3-aefe-c8c6215f9dd0.png)
