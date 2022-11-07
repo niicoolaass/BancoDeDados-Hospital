@@ -1,4 +1,4 @@
-# Diagrama ER Hospital
+# Hospital
 
 ###### PARTE 1
 
